@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+📚 Student at the Silesian University of Technology
 
 <!--
 **yarchoo/yarchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
